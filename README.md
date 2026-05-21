@@ -1,2 +1,2 @@
 # hello-world
-My first repo
+Starting Handshake AI work
